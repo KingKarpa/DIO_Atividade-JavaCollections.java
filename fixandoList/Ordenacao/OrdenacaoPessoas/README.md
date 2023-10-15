@@ -6,7 +6,7 @@ Esse momento do curso trata a Interface List e as classes relacionadas, além de
 ### O que o programa faz?
 O foco desse programa é a implementação das interfaces Comparable e Comparator. <br>
 Esse programa cria uma ArrayList (pessoasList) na classe OrdenacaoPessoas que contém objetos da classe Pessoa. <br>
-**A classe OrdenacaoPessoas** possui métodos para ordenar os seus elementos que são usados no método main para realizar testes de ordenação. <br>
+**A classe OrdenacaoPessoas** possui métodos para ordenar os seus elementos. Uma instância sua é criada no método **main** para realizar testes de manipulação (ordenação) dos elementos através de seus métodos. Para tal objetivo, são usadas as interfaces Comparable e Comparator em métodos diferentes. <br>
 **A classe Pessoa** possui métodos que são usados no interior da classe OrdenacaoPessoas para auxiliar as ordenações dos elementos do pessoasList.
 
 ## :gear: Executando
@@ -19,7 +19,7 @@ Para executar esse código pode ser usada uma das seguintes abordagens: <br>
     ```
 
 ## :hammer_and_wrench: Construção
-Esse código foi construido usando como linguagem apenas Java e usando o VSCode como IDE.
+Esse código foi construido usando como linguagem apenas Java e usando o **VSCode** como IDE.
 
 ## :dragon_face: Autor
 Nicolas Oliveira Matos (KingKarpa)
