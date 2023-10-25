@@ -9,11 +9,12 @@ public class CadastroProdutos {
 	// Atributo
 	private Set<Produto> produtosSet;
 
+	// Construtor
 	public CadastroProdutos() {
 		this.produtosSet = new HashSet<>();
 	}
 	
-	// Construtor
+	// Método para adicionar objetos (Produto) em produtosSet
 	public void adicionarProduto(String nome, int codigo, double preco, int quantidade) {
 		Produto produto = new Produto(nome, codigo, preco, quantidade);
 		produtosSet.add(produto);

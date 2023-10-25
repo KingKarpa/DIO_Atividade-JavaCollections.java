@@ -1,2 +1,8 @@
+### VSCode ###
 *.vscode
+
+### Eclipse ###
 *.metadata
+
+### IntelliJ ###
+*.idea

@@ -76,7 +76,7 @@ public class CatalogoLivros {
         return livroEncontrado;
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         CatalogoLivros catalogo = new CatalogoLivros();
 
         catalogo.adicionarLivro("Livro 1", "Autor 1", 2020);

@@ -36,7 +36,7 @@ public class OrdenacaoPessoas {
         return pessoasPorAltura;
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         OrdenacaoPessoas ordenacaoPessoas = new OrdenacaoPessoas();
 
         ordenacaoPessoas.adicionarPessoa("Nome 1", 19, 1.93);

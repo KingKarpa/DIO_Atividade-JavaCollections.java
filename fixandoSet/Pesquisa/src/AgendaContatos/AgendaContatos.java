@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class AgendaContatos {
-	// Atributos	
+	// Atributo	
 	private Set<Contato> contatosSet;
 
 	// Construtor
