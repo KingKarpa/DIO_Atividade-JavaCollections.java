@@ -1,4 +1,4 @@
-# JavaCollections-DIO
+# JavaCollections
 Esse é um conjunto de exercícios do bootcamp Backend Java da DIO. <br>
 O objetivo geral destes exercícios é fixar o conhecimento adquirido nas aulas do curso Collections Java API 2023. O curso busca ensinar a usar as Interfaces e Classes presentes no **Java Collections**, focando em List, Set e Map, além de algumas classes e interfaces relacionadas a essas. <br>
 
